@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": [
+                "resources/*"
+            ],
+            "store/*": [
+                "resources/stores/*"
+            ],
+            "assets/*": [
+                "resources/assets/*"
+            ],
+            "components/*": [
+                "resources/views/components/*"
+            ]
+        }
+    },
+    "include": [
+        "resources/**/*"
+    ]
+}
