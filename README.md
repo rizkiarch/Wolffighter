@@ -1,4 +1,4 @@
-# Jagad Digital Point Of Sale
+# Organization Management System
 
 
 ## Install
